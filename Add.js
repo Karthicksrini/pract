@@ -1,5 +1,5 @@
-let a = 1000;
-let b = 2000;
+let a = 10;
+let b = 20;
 console.log(a+ b);
 console.log(a / b);
 
